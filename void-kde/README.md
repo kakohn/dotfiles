@@ -2,19 +2,19 @@
 
 ### Paquetes listados
 
-### KDE PLasma:
+### KDE Plasma:
 	1) kde5
 	2) kde5-baseapps
 	3) ark
 	4) spectacle
 	5) sddm
-	26) kdegraphics-thumbnailers 
-        36) kdialog
-        33) plasma-browser-integration
-        34) plasma-firewall
-        29) gwenview
-        30) okular
-        36) kdialog
+	26) kdegraphics-thumbnailers
+	36) kdialog
+	33) plasma-browser-integration
+	34) plasma-firewall
+	29) gwenview
+	30) okular
+	36) kdialog
 
 ### Sistema:
 	6) dbus
@@ -41,23 +41,23 @@
 	44) chrony
 
 ### Audio:
-        17) pulseaudio
-        32) alsa-plugins-pulseaudio
+	17) pulseaudio
+	32) alsa-plugins-pulseaudio
  
 ### Fuentes:
-        37) font-adobe-source-code-pro
-        25) fonts-droid-ttf
-        24) noto-fonts-emoji
-        23) liberation-fonts-ttf
-        22) dejavu-fonts-ttf
-        21) noto-fonts-ttf  
+	37) font-adobe-source-code-pro
+	25) fonts-droid-ttf
+	24) noto-fonts-emoji
+	23) liberation-fonts-ttf
+	22) dejavu-fonts-ttf
+	21) noto-fonts-ttf  
 
-### Programas secundarios y opcionales: 
+### Programas secundarios y opcionales:
 	45) firefox-i18n-es-ES
-        16) firefox   
-        31) vlc
-        40) geany
-        41) geany-plugins 
+	16) firefox
+	31) vlc
+	40) geany
+	41) geany-plugins 
 
 ### Paquetes no listados: 
 
