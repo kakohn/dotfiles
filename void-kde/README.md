@@ -2,68 +2,62 @@
 
 ### Paquetes listados
 
-### KDE Plasma:
+#### KDE Plasma:
 	1) kde5
 	2) kde5-baseapps
 	3) ark
 	4) spectacle
 	5) sddm
-	26) kdegraphics-thumbnailers
-	36) kdialog
-	33) plasma-browser-integration
-	34) plasma-firewall
-	29) gwenview
-	30) okular
-	36) kdialog
+	6) kdegraphics-thumbnailers
+	7) kdialog
+	8) plasma-browser-integration
+	9) plasma-firewall (opcional, juntar con ufw)
+	10) gwenview
+	11) okular
+	12) kdialog
 
-### Sistema:
-	6) dbus
-	7) zramen
-	8) brightnessctl 
-	9) nano
-	10) flatpak 
-	11) xorg-minimal
-	12) mesa-dri
-	13) xdg-user-dirs
-	14) xdg-utils
-	15) glxinfo
-	17) pulseaudio
-	18) bash-completion
-	19) htop
-	20) neofetch
-	27) ffmpeg 
-	28) ffmpegthumbs
-	35) ufw
-	38) tlp
-	39) thermald
-	42) base-devel 
-	43) xtools 
-	44) chrony
+#### Sistema:
+	1) dbus
+	2) zramen
+	3) brightnessctl (Recomendación: Implementar con el servicio [brightnessctld](https://github.com/kakohn/brightnessctld))  
+	4) nano
+	5) flatpak (opcional)
+	6) xorg-minimal
+	7) mesa-dri
+	8) xdg-user-dirs
+	9) xdg-utils
+	10) glxinfo
+	11) bash-completion
+	12) htop
+	13) neofetch
+	14) ffmpeg 
+	15) ffmpegthumbs
+	16) ufw (opcional, juntar con plasma-firewall)
+	17) tlp
+	18) thermald (opcional, solo intel)
+	19) base-devel 
+	20) xtools 
+	21) chrony
 
-### Audio:
-	17) pulseaudio
-	32) alsa-plugins-pulseaudio
+#### Audio:
+	1) pulseaudio
+	2) alsa-plugins-pulseaudio
  
-### Fuentes:
-	37) font-adobe-source-code-pro
-	25) fonts-droid-ttf
-	24) noto-fonts-emoji
-	23) liberation-fonts-ttf
-	22) dejavu-fonts-ttf
-	21) noto-fonts-ttf  
+#### Fuentes:
+	1) font-adobe-source-code-pro
+	2) fonts-droid-ttf
+	3) noto-fonts-emoji
+	4) liberation-fonts-ttf
+	5) dejavu-fonts-ttf
+	6) noto-fonts-ttf  
 
-### Programas secundarios y opcionales:
-	45) firefox-i18n-es-ES
-	16) firefox
-	31) vlc
-	40) geany
-	41) geany-plugins 
+#### Programas secundarios y opcionales:
+	1) firefox-i18n-es-ES
+	2) firefox
+	3) vlc
+	4) geany
+	5) geany-plugins 
 
 ### Paquetes no listados: 
 
-	kde5 kde5-baseapps ark spectacle sddm dbus zramen brightnessctl nano flatpak xorg-minimal 
-	mesa-dri xdg-user-dirs xdg-utils glxinfo firefox pulseaudio bash-completion htop neofetch 
-	noto-fonts-ttf dejavu-fonts-ttf liberation-fonts-ttf noto-fonts-emoji fonts-droid-ttf 
-	kdegraphics-thumbnailers ffmpeg ffmpegthumbs gwenview okular vlc alsa-plugins-pulseaudio 
-	plasma-browser-integration plasma-firewall ufw kdialog font-adobe-source-code-pro tlp 
-	thermald geany geany-plugins base-devel xtools chrony firefox-i18n-es-ES
+	kde5 kde5-baseapps ark spectacle sddm dbus zramen brightnessctl nano flatpak xorg-minimal mesa-dri xdg-user-dirs xdg-utils glxinfo firefox pulseaudio bash-completion htop neofetch noto-fonts-ttf dejavu-fonts-ttf liberation-fonts-ttf noto-fonts-emoji fonts-droid-ttf kdegraphics-thumbnailers ffmpeg ffmpegthumbs gwenview okular vlc alsa-plugins-pulseaudio plasma-browser-integration plasma-firewall ufw kdialog font-adobe-source-code-pro tlp thermald geany geany-plugins base-devel xtools chrony firefox-i18n-es-ES
