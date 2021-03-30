@@ -18,8 +18,8 @@
 
 #### Sistema:
 	1) dbus
-	2) zramen
-	3) brightnessctl (Recomendación: Implementar con el servicio [brightnessctld](https://github.com/kakohn/brightnessctld))  
+	2) zramen (instalación de swap)
+	3) brightnessctl
 	4) nano
 	5) flatpak (opcional)
 	6) xorg-minimal
