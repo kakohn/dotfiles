@@ -18,7 +18,7 @@
 
 #### Sistema:
 	1) dbus
-	2) zramen (instalación de swap)
+	2) zramen (instalación sin swap)
 	3) brightnessctl
 	4) nano
 	5) flatpak (opcional)
@@ -60,6 +60,6 @@
 	4) geany
 	5) geany-plugins 
 
-### Paquetes no listados: 
+### Paquetes no listados
 
 	kde5 kde5-baseapps ark spectacle sddm dbus zramen brightnessctl nano flatpak xorg-minimal mesa-dri xdg-user-dirs xdg-utils glxinfo firefox pulseaudio bash-completion htop neofetch noto-fonts-ttf dejavu-fonts-ttf liberation-fonts-ttf noto-fonts-emoji fonts-droid-ttf kdegraphics-thumbnailers ffmpeg ffmpegthumbs gwenview okular vlc alsa-plugins-pulseaudio plasma-browser-integration plasma-firewall ufw kdialog font-adobe-source-code-pro tlp thermald geany geany-plugins base-devel xtools chrony firefox-i18n-es-ES
