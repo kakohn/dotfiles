@@ -38,6 +38,8 @@
 	19) base-devel 
 	20) xtools 
 	21) chrony
+### Recomendación: Implementar brightnessctl con el servicio [brightnessctld](https://github.com/kakohn/brightnessctld)
+
 
 #### Audio:
 	1) pulseaudio
