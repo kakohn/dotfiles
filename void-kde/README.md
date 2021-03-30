@@ -1,6 +1,6 @@
-# Paquetes necesarios para la construcción de KDE listo para uso cotidiano
+## Paquetes utilizados en la instalación de Void Linux junto al DE KDE Plasma.
 
-## Paquetes listados:
+### Paquetes listados:
 
 	1) kde5
 	2) kde5-baseapps
@@ -47,3 +47,7 @@
 	43) xtools 
 	44) chrony 
 	45) firefox-i18n-es-ES
+
+### Paquetes no listados: 
+
+	kde5 kde5-baseapps ark spectacle sddm dbus zramen brightnessctl nano flatpak xorg-minimal mesa-dri xdg-user-dirs xdg-utils glxinfo firefox pulseaudio bash-completion htop neofetch noto-fonts-ttf dejavu-fonts-ttf liberation-fonts-ttf noto-fonts-emoji fonts-droid-ttf kdegraphics-thumbnailers ffmpeg ffmpegthumbs gwenview okular vlc alsa-plugins-pulseaudio plasma-browser-integration plasma-firewall ufw kdialog font-adobe-source-code-pro tlp thermald geany geany-plugins base-devel xtools chrony firefox-i18n-es-ES
