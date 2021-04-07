@@ -38,6 +38,8 @@
 	19) base-devel 
 	20) xtools 
 	21) chrony
+	22) xdg-desktop-portal
+
 ### Recomendación: Implementar brightnessctl con el servicio [brightnessctld](https://github.com/kakohn/brightnessctld)
 
 
@@ -56,10 +58,10 @@
 #### Programas secundarios y opcionales:
 	1) firefox-i18n-es-ES
 	2) firefox
-	3) vlc
+	3) mpv
 	4) geany
 	5) geany-plugins 
 
 ### Paquetes no listados
 
-	kde5 kde5-baseapps ark spectacle sddm dbus zramen brightnessctl nano flatpak xorg-minimal mesa-dri xdg-user-dirs xdg-utils glxinfo firefox pulseaudio bash-completion htop neofetch noto-fonts-ttf dejavu-fonts-ttf liberation-fonts-ttf noto-fonts-emoji fonts-droid-ttf kdegraphics-thumbnailers ffmpeg ffmpegthumbs gwenview okular vlc alsa-plugins-pulseaudio plasma-browser-integration plasma-firewall ufw kdialog font-adobe-source-code-pro tlp thermald geany geany-plugins base-devel xtools chrony firefox-i18n-es-ES
+	kde5 kde5-baseapps ark spectacle sddm dbus zramen brightnessctl nano flatpak xorg-minimal mesa-dri xdg-user-dirs xdg-desktop-portal xdg-utils glxinfo firefox pulseaudio bash-completion htop neofetch noto-fonts-ttf dejavu-fonts-ttf liberation-fonts-ttf noto-fonts-emoji fonts-droid-ttf kdegraphics-thumbnailers ffmpeg ffmpegthumbs gwenview okular mpv alsa-plugins-pulseaudio plasma-browser-integration plasma-firewall ufw kdialog font-adobe-source-code-pro tlp thermald geany geany-plugins base-devel xtools chrony firefox-i18n-es-ES
