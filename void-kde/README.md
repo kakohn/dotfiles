@@ -9,12 +9,10 @@
 	4) spectacle
 	5) sddm
 	6) kdegraphics-thumbnailers
-	7) kdialog
-	8) plasma-browser-integration
-	9) plasma-firewall (opcional, juntar con ufw)
-	10) gwenview
-	11) okular
-	12) kdialog
+	7) plasma-browser-integration (opcional)
+	8) plasma-firewall (opcional, juntar con ufw)
+	9) gwenview (opcional)
+	11) okular (opcional)
 
 #### Sistema:
 	1) dbus
@@ -27,13 +25,13 @@
 	8) xdg-user-dirs
 	9) xdg-utils
 	10) glxinfo
-	11) bash-completion
-	12) htop
-	13) neofetch
+	11) bash-completion (opcional)
+	12) htop (opcional)
+	13) neofetch (opcional)
 	14) ffmpeg 
 	15) ffmpegthumbs
 	16) ufw (opcional, juntar con plasma-firewall)
-	17) tlp
+	17) tlp (opcional)
 	18) thermald (opcional, solo intel)
 	19) base-devel 
 	20) xtools 
@@ -41,7 +39,6 @@
 	22) xdg-desktop-portal
 
 ### Recomendación: Implementar brightnessctl con el servicio [brightnessctld](https://github.com/kakohn/brightnessctld)
-
 
 #### Audio:
 	1) pulseaudio
@@ -64,4 +61,4 @@
 
 ### Paquetes no listados
 
-	kde5 kde5-baseapps ark spectacle sddm dbus zramen brightnessctl nano flatpak xorg-minimal mesa-dri xdg-user-dirs xdg-desktop-portal xdg-utils glxinfo firefox pulseaudio bash-completion htop neofetch noto-fonts-ttf dejavu-fonts-ttf liberation-fonts-ttf noto-fonts-emoji fonts-droid-ttf kdegraphics-thumbnailers ffmpeg ffmpegthumbs gwenview okular mpv alsa-plugins-pulseaudio plasma-browser-integration plasma-firewall ufw kdialog font-adobe-source-code-pro tlp thermald geany geany-plugins base-devel xtools chrony firefox-i18n-es-ES
+	kde5 kde5-baseapps ark spectacle sddm dbus zramen brightnessctl nano flatpak xorg-minimal mesa-dri xdg-user-dirs xdg-desktop-portal xdg-utils glxinfo firefox pulseaudio bash-completion htop neofetch noto-fonts-ttf dejavu-fonts-ttf liberation-fonts-ttf noto-fonts-emoji fonts-droid-ttf kdegraphics-thumbnailers ffmpeg ffmpegthumbs gwenview okular mpv alsa-plugins-pulseaudio plasma-browser-integration plasma-firewall ufw font-adobe-source-code-pro tlp thermald geany geany-plugins base-devel xtools chrony firefox-i18n-es-ES
