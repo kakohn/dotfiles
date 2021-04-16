@@ -13,8 +13,9 @@ PS1="\[\033[1;32m\]\W\[\033[33m\]\$(git_branch)\[\033[00m\] > "
 alias svs="sudo sv status /var/service/*"
 # Alias xbps
 alias xup="sudo xbps-install -Su"
-alias xse="xbps-query -Rs"
 alias xin="sudo xbps-install -S"
-alias xrm="sudo xbps-remove -R"
-# Alias kakofetch
-alias kakofetch="~/github/kakofetch/kakofetch"
+alias xrmd="sudo xbps-remove -R"
+alias xrm="sudo xbps-remove"
+alias xse="xbps-query -Rs"
+alias xry="xbps-query -s"
+alias Xse="xbps-query -X"
