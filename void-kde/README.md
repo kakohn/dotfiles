@@ -17,7 +17,7 @@
 #### Sistema:
 	1) dbus
 	2) zramen (instalación sin swap)
-	3) brightnessctl
+	3) brightnessctl (opcional)
 	4) nano
 	5) flatpak (opcional)
 	6) xorg-minimal
