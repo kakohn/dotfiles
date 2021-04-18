@@ -24,21 +24,21 @@
 	7) mesa-dri
 	8) xdg-user-dirs
 	9) xdg-utils
-	10) glxinfo
-	11) bash-completion (opcional)
-	12) htop (opcional)
-	13) neofetch (opcional)
-	14) ffmpeg 
-	15) ffmpegthumbs
-	16) ufw (opcional, juntar con plasma-firewall)
-	17) tlp (opcional)
-	18) thermald (opcional, solo intel)
-	19) base-devel 
-	20) xtools 
-	21) chrony
-	22) xdg-desktop-portal
+	10) xdg-desktop-portal
+	11) glxinfo
+	12) bash-completion (opcional)
+	13) htop (opcional)
+	14) neofetch (opcional)
+	15) ffmpeg 
+	16) ffmpegthumbs
+	17) ufw (opcional, juntar con plasma-firewall)
+	18) tlp (opcional)
+	19) thermald (opcional, solo intel)
+	20) base-devel 
+	21) xtools 
+	22) chrony
 
-### Recomendación: Implementar brightnessctl con el servicio [brightnessctld](https://github.com/kakohn/brightnessctld)
+#### Recomendación: Implementar brightnessctl con el servicio [brightnessctld](https://github.com/kakohn/brightnessctld)
 
 #### Audio:
 	1) pulseaudio
