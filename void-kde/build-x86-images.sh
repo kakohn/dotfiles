@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ARCH=x86_64
-IMAGE=kde
+IMAGE=
 
 while getopts "a:b:hr:" opt; do
 case $opt in
@@ -34,7 +34,7 @@ readonly E_PKGS="$X_PKGS lxdm enlightenment terminology udisks2 firefox-esr"
 readonly XFCE_PKGS="$X_PKGS lxdm xfce4 gnome-themes-standard gnome-keyring network-manager-applet gvfs-afc gvfs-mtp gvfs-smb udisks2 firefox-esr"
 readonly MATE_PKGS="$X_PKGS lxdm mate mate-extra gnome-keyring network-manager-applet gvfs-afc gvfs-mtp gvfs-smb udisks2 firefox-esr"
 readonly CINNAMON_PKGS="$X_PKGS lxdm cinnamon gnome-keyring colord gnome-terminal gvfs-afc gvfs-mtp gvfs-smb udisks2 firefox-esr"
-readonly GNOME_PKGS="$X_PKGS gnome gnome-terminal firefox-esr"
+readonly GNOME_PKGS="$BASE_PKGS gdm gnome-terminal gnome-screenshot nautilus file-roller eog gnome-music totem dbus zramen brightnessctl nano flatpak xorg-minimal mesa-dri xdg-user-dirs xdg-utils xdg-desktop-portal glxinfo bash-completion htop neofetch ffmpeg ffmpegthumbs ufw gufw tlp thermald chrony pulseaudio alsa-plugins-pulseaudio font-adobe-source-code-pro fonts-droid-ttf noto-fonts-emoji liberation-fonts-ttf liberation-fonts-ttf noto-fonts-ttf firefox geany geany-plugins"
 readonly KDE_PKGS="$BASE_PKGS kde5 kde5-baseapps ark spectacle sddm dbus zramen brightnessctl nano flatpak xorg-minimal mesa-dri xdg-user-dirs xdg-desktop-portal xdg-utils glxinfo firefox pulseaudio bash-completion htop neofetch noto-fonts-ttf dejavu-fonts-ttf liberation-fonts-ttf noto-fonts-emoji fonts-droid-ttf kdegraphics-thumbnailers ffmpeg ffmpegthumbs gwenview okular mpv alsa-plugins-pulseaudio plasma-browser-integration plasma-firewall ufw font-adobe-source-code-pro tlp thermald geany geany-plugins base-devel xtools chrony firefox-i18n-es-ES"
 readonly LXDE_PKGS="$X_PKGS lxdm lxde gvfs-afc gvfs-mtp gvfs-smb udisks2 firefox-esr"
 readonly LXQT_PKGS="$X_PKGS lxdm lxqt gvfs-afc gvfs-mtp gvfs-smb udisks2 qupzilla"
