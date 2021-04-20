@@ -1,2 +1,2 @@
 # dotfiles
-Configuraciones derivadas
+Mis configuraciones derivadas.
