@@ -12,54 +12,54 @@
 	7) plasma-browser-integration (opcional)
 	8) plasma-firewall (opcional, juntar con ufw)
 	9) gwenview (opcional)
-	11) okular (opcional)
+	10) okular (opcional)
 
 #### Sistema:
-	12) dbus
-	13) zramen (instalación sin swap)
-	14) brightnessctl (opcional)
-	15) nano
-	16) flatpak (opcional)
-	17) xorg-minimal
-	18) mesa-dri
-	19) mesa-vulkan-intel (opcional)
-	20) mesa-vaapi
-	21) xdg-user-dirs
-	22) xdg-utils
-	23) xdg-desktop-portal
-	24) glxinfo
-	25) bash-completion (opcional)
-	26) htop (opcional)
-	27) neofetch (opcional)
-	28) ffmpeg 
-	29) ffmpegthumbs
-	30) ufw (opcional, juntar con plasma-firewall)
-	31) tlp (opcional)
-	32) thermald (opcional, solo intel)
-	33) base-devel 
-	34) xtools 
-	35) chrony
+	11) dbus
+	12) zramen (instalación sin swap)
+	13) brightnessctl (opcional)
+	14) nano
+	15) flatpak (opcional)
+	16) xorg-minimal
+	17) mesa-dri
+	18) mesa-vulkan-intel (opcional)
+	19) mesa-vaapi
+	20) xdg-user-dirs
+	21) xdg-utils
+	22) xdg-desktop-portal
+	23) glxinfo
+	24) bash-completion (opcional)
+	25) htop (opcional)
+	26) neofetch (opcional)
+	27) ffmpeg 
+	28) ffmpegthumbs
+	29) ufw (opcional, juntar con plasma-firewall)
+	30) tlp (opcional)
+	31) thermald (opcional, solo intel)
+	32) base-devel 
+	33) xtools 
+	34) chrony
 
 #### Recomendación: Implementar brightnessctl con el servicio [brightnessctld](https://github.com/kakohn/brightnessctld)
 
 #### Audio:
-	36) pulseaudio
-	37) alsa-plugins-pulseaudio
+	35) pulseaudio
+	36) alsa-plugins-pulseaudio
  
 #### Fuentes:
-	38) font-adobe-source-code-pro
-	39) fonts-droid-ttf
-	40) noto-fonts-emoji
-	41) liberation-fonts-ttf
-	42) dejavu-fonts-ttf
-	43) noto-fonts-ttf  
+	37) font-adobe-source-code-pro
+	38) fonts-droid-ttf
+	39) noto-fonts-emoji
+	40) liberation-fonts-ttf
+	41) dejavu-fonts-ttf
+	42) noto-fonts-ttf  
 
 #### Programas secundarios y opcionales:
-	44) firefox-i18n-es-ES
-	45) firefox
-	46) mpv
-	47) geany
-	46) geany-plugins 
+	43) firefox-i18n-es-ES
+	44) firefox
+	45) mpv
+	46) geany
+	47) geany-plugins 
 
 ### Paquetes no listados
 
