@@ -1,9 +1,5 @@
 ## Paquetes utilizados en la instalación de Void Linux junto al DE KDE Plasma.
 
-### Preview
-
-[preview1](dotfiles/blob/main/void-kde/preview/preview1.png)
-
 ### Paquetes listados
 
 #### KDE Plasma:
