@@ -2,7 +2,7 @@
 
 ### Preview
 
-[preview1](preview/preview1.png)
+[preview1](/preview/preview1.png)
 
 ### Paquetes listados
 
