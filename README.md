@@ -4,5 +4,5 @@ Mis configuraciones derivadas.
 ### KDE Plasma
 ![preview](preview/preview1.png)
 
-### Tema Breeze-Dark - Geany
+### Esquemas de color Breeze-Dark - Geany
 ![breeze-dark](preview/breeze-dark.png)
