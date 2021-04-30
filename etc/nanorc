@@ -1,4 +1,3 @@
 set linenumbers
-set smooth
 set boldtext
 include "/usr/share/nano/*.nanorc"
