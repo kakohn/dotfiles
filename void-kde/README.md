@@ -8,59 +8,64 @@
 	3) ark
 	4) spectacle
 	5) sddm
-	6) kdegraphics-thumbnailers
-	7) plasma-browser-integration (opcional)
-	8) plasma-firewall (opcional, juntar con ufw)
-	9) gwenview (opcional)
-	10) okular (opcional)
+	6) kdialog
+	7) kwrite
+	8) kdegraphics-thumbnailers (opcional)
+	9) plasma-browser-integration (opcional)
+	10) plasma-firewall (opcional, juntar con ufw)
+	11) gwenview
+	12) okular
 
 #### Sistema:
-	11) dbus
-	12) zramen (instalación sin swap)
-	13) brightnessctl (opcional)
-	14) nano
-	15) flatpak (opcional)
-	16) xorg-minimal
-	17) mesa-dri
-	18) mesa-vulkan-intel (opcional)
-	19) mesa-vaapi
-	20) xdg-user-dirs
-	21) xdg-utils
-	22) xdg-desktop-portal
-	23) glxinfo
-	24) bash-completion (opcional)
-	25) htop (opcional)
-	26) neofetch (opcional)
-	27) ffmpeg 
-	28) ffmpegthumbs
-	29) ufw (opcional, juntar con plasma-firewall)
-	30) tlp (opcional)
-	31) thermald (opcional, solo intel)
-	32) base-devel 
-	33) xtools 
-	34) chrony
+	13) dbus
+	14) zramen (instalación sin swap)
+	15) brightnessctl (opcional)
+	16) nano (opcional)
+	17) flatpak (opcional)
+	18) xorg-minimal
+	19) mesa-dri
+	20) mesa-vulkan-intel (opcional)
+	21) mesa-vaapi 
+	22) mesa-vdpau
+	23) intel-video-accel
+	24) xdg-user-dirs
+	25) xdg-utils
+	26) xdg-desktop-portal
+	27) glxinfo
+	28) bash-completion (opcional)
+	29) htop (opcional)
+	30) neofetch (opcional)
+	31) ffmpeg 
+	32) ffmpegthumbs (opcional)
+	33) ufw (opcional, juntar con plasma-firewall)
+	34) tlp (opcional)
+	35) thermald (opcional, solo intel)
+	36) base-devel (opcional)
+	37) xtools (opcional)
+	38) chrony (opcional)
 
 #### Recomendación: Implementar brightnessctl con el servicio [brightnessctld](https://github.com/kakohn/brightnessctld)
 
 #### Audio:
-	35) pulseaudio
-	36) alsa-plugins-pulseaudio
+	39) pulseaudio
+	40) alsa-plugins-pulseaudio
  
 #### Fuentes:
-	37) font-adobe-source-code-pro
-	38) fonts-droid-ttf
-	39) noto-fonts-emoji
-	40) liberation-fonts-ttf
-	41) dejavu-fonts-ttf
-	42) noto-fonts-ttf  
+	41) font-adobe-source-code-pro
+	42) fonts-droid-ttf
+	43) noto-fonts-emoji
+	44) liberation-fonts-ttf
+	45) dejavu-fonts-ttf
+	46) noto-fonts-ttf  
 
 #### Programas secundarios y opcionales:
-	43) firefox-i18n-es-ES
-	44) firefox
-	45) mpv
-	46) geany
-	47) geany-plugins 
+	47) firefox
+	48) firefox-i18n-es-ES
+	49) mpv
+	50) geany
+	51) geany-plugins
+	52) ssr (simple screen recorder)
 
 ### Paquetes no listados
 
-	kde5 kde5-baseapps ark spectacle sddm dbus zramen brightnessctl nano flatpak xorg-minimal mesa-dri mesa-vulkan-intel mesa-vaapi xdg-user-dirs xdg-desktop-portal xdg-utils glxinfo pulseaudio bash-completion htop neofetch noto-fonts-ttf dejavu-fonts-ttf liberation-fonts-ttf noto-fonts-emoji fonts-droid-ttf kdegraphics-thumbnailers ffmpeg ffmpegthumbs gwenview okular mpv alsa-plugins-pulseaudio plasma-browser-integration plasma-firewall ufw font-adobe-source-code-pro tlp thermald geany geany-plugins base-devel xtools chrony firefox firefox-i18n-es-ES
+	kde5 kde5-baseapps ark spectacle sddm kdialog kwrite kdegraphics-thumbnailers plasma-browser-integration plasma-firewall gwenview okular dbus zramen brightnessctl nano flatpak xorg-minimal mesa-dri mesa-vulkan-intel mesa-vaapi mesa-vdpau intel-video-accel xdg-user-dirs xdg-utils xdg-desktop-portal glxinfo bash-completion htop neofetch ffmpeg ffmpegthumbs ufw tlp thermald base-devel xtools chrony pulseaudio alsa-plugins-pulseaudio font-adobe-source-code-pro fonts-droid-ttf noto-fonts-emoji liberation-fonts-ttf dejavu-fonts-ttf noto-fonts-ttf firefox firefox-i18n-es-ES mpv geany geany-plugins ssr 
